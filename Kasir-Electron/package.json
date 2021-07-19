@@ -1,0 +1,14 @@
+{
+  "name": "cashier-master",
+  "version": "1.0.0",
+  "description": "Fruit shop cashier application usingjavascript",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "nanda susila",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^13.1.7"
+  }
+}
